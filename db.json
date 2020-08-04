@@ -11,6 +11,13 @@
         "nome": "Back End",
         "descricao": "Outra categoria",
         "cor": "#cbd1ff"
+       },
+       {
+        "id":3,
+        "nome": "Back End",
+        "descricao": "Outra categoria",
+        "cor": "#cbd1ff"
        }
+       
     ]
 }
